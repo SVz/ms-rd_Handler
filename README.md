@@ -4,7 +4,7 @@
 
 ## Features
 
-Open RDP URI used by Tailscale with Windows client.
+Open RDP URI used by Tailscale with RDP Windows client.
 
 
 ## Usage/Examples
