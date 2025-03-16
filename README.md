@@ -20,7 +20,7 @@ Add Registry Entry like this :
 
 Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\ms-rd]
+[HKEY_CLASSES_ROOT\ms-rd]\
 @="URL:Remote Desktop Protocol"\
 "URL Protocol"=""
 
