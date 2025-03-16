@@ -1,7 +1,5 @@
 
-# Project Title
-
-Windows Tailscale URI Handler
+# Windows Tailscale URI Handler
 
 
 ## Features
