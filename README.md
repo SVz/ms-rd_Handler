@@ -28,3 +28,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\ms-rd\shell\open\command]\
 @="\"C:\\Users\\SVz\\source\\repos\\ms-rd_Handler\\ms-rd_Handler\\bin\\Release\\ms-rd_Handler.exe\" \"%1\""    
+
+## Acknowledgements
+
+ - [Tailscale](https://tailscale.com/)
