@@ -12,7 +12,6 @@ Open RDP URI used by Tailscale with Windows client.
 ## Usage/Examples
 
 URI form : ms-rd:subscribe?url=x.x.x.x
-```
 
 
 ## Installation
